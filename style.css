@@ -1,0 +1,57 @@
+body {
+    background: #1b1b1b;
+}
+.h1{
+    font-family: Helvetica;
+    text-align: center;
+    color: #ffffff;
+    font-size: 15px;
+    
+}
+
+.h2{
+    font-family: Helvetica;
+    font-size: 85px;
+    color: #ffffff;
+}
+
+.h3{
+    font-family: Helvetica;
+    font-size: 60px;
+    color: #ffffff;
+}
+
+.h4{
+    font-family: Helvetica;
+    text-align: center;
+    color: #ffffff;
+    font-size: 35px;
+    
+}
+
+.countdownContainer{
+    position: absolute;;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    text-align: center;
+    
+}
+
+.info {
+    font-size: 80px;
+}
+
+.footer-copy p{
+	margin:4em 0 0;
+	text-align:center;
+	color:#999;
+	line-height:1.8em;
+}
+.footer-copy p a{
+	color:#999;
+	text-decoration:none;
+}
+.footer-copy p a:hover{
+	color:#999;
+}
